@@ -160,5 +160,47 @@ USA IN, RUSSIA OUT
 - Included Britian PM David Loyd george, French president George Clemenceau, American president Woodrow Wilson, and Italian PM Vito Orlando.
 - MAJOR EXCLUSIONS => Germany and her allies, plus the Soviet Union.
 - All allies came with their own agenda => Wilson came with his famous "14 points", to make the Great War truely "the war to end all wars".
-- Europeans however only hasd revenge on their minds, CLAUSE 231.
+- Europeans however only had revenge on their minds, CLAUSE 231.
 
+## Unit Overview
+### Summary
+According to ChatGPT:
+This is a summary of various topics related to World War I. It begins by discussing the failure of the Schlieffen Plan, which led to both armies meeting at the Marne River and resulted in a stalemate. It then discusses the propaganda methods used by governments to persuade citizens to support the war effort, including censorship and demonizing the enemy. The battles of Ypres and the Somme are described, as well as the introduction of chemical weapons and the use of machine guns. The development of airplanes for reconnaissance and aerial combat is also discussed, along with the Battle of Jutland at sea and the use of U-boats. The summary ends by mentioning the treatment of enemy aliens during the war.
+
+### Key Questions
+- Who was Aurthur Currie? What was he known for? Nickname?
+- Describe trench warfare. Why was it created? 
+- Summarize Progaganda.
+- Germans were known for the use of what gas? What were its effects?
+- Somme introduced what weapon that would totally change warfare?
+- What is a battle of attrition?
+- What were Aces? What did they get?
+- Describe Fokker planes.
+- The battle of Jutland made the Germans do what for the rest of the war?
+- The U-Boat was a type of what?
+- Describe the U-Boat.
+- Why was Vimy Ridge significant? Who led it? What did they do different?
+- Describe the Russian army?
+- What happened after the Bolsheviks took over?
+- What was conscription? Who pushed for it? Why was it controversial?
+- Summarize the battle at Passchendale.
+- What was the Treaty of Versailles? What did it try to accomplish?
+
+### Suggested Answers
+- Aurthur Currie was a Canadian general. He is most famously known for his new approach to battle, the rolling barage. He is known for winning Vimy Ridge. His nickname was the maestro (a master usually in an art).
+- Trench warfare was digging trenches to take cover in, and shooting over the front. It was an interconnected tunnel way with a almost random connection of trenches. It was created due to a failure to outflank the enemy at the Marne River.
+- Propaganda is a method used by the government to persude the people. It was used to persude and shame people into joining the army and fighting.
+- Germans were known for the use of chlorine gas. It caused a long and drawn out death. Victim's skin would bubble and their lungs would bleed.
+- Somme introduced the machine gun. It was able to fire 400 bullets per minute and changed the war from the attacking army being the one with the advantage to the army on the defensive having the advantage. Turned somme into a battle of attrition.
+- Attrition warfare is a military strategy consisting of belligerent attempts to win a war by wearing down the enemy to the point of collapse through continuous losses in personnel and material.
+- Aces were pilots with 5 or more takedowns of enemy planes. They would get popularity and were loved. They would get clean beds, good food, and lots of alcohol.
+- Fokker planes were planes where a machine gun was strapped to the front of the plane. This machine gun was tied to the stroke of the engine such that it would not hit the propellers.
+- The battle of Jutland made Germans use submarines for the rest of the war as they could not beat use Dreadnaughts much longer.
+- The U-Boat was a type of submarine.
+- The U-Boat was a submarine that was able to launch torpedoes to sink Dreadnaughts from under the water.
+- Vimy Ridge was significant because it broke a stalemate and was the first time the Germans did not decide to take back what they lost. It was led by Arthur Currie. They employed the rolling barage technique. It wa sa method of deploying troops such that they would relentlessly bombard the enemy.
+- The Russian army was unorganized and a peasant army. People would bring pitch forks to the front lines.
+- After the Bolsheviks took over, Vladamir Lenin rose to power and spread communism to Russia, making the Soviet Union.
+- Conscription was the law that would force all able bodies men over the age of 18 to fight in the war. It was pushed by Robert Borden, and highly controversial. It was controversial because many believed Canada shouldn't even be in the war in the first place.
+- The battle of Passchemdale destroyed Passchendale, it was muddy and gross. Although Arthur Currie warned Haig about making an offensive push in such horrible conditions, he did anyway. Many were killed, but we won.
+- The Treaty of Versailles was the treaty to figure out what to do and how to pay everyone back for the war. The winners of the war wanted reparations for their demolished countries. It tried to accomplish peace by making mainly Germany pay everyone back.

@@ -72,7 +72,10 @@ The dissemination of information - facts, arguemnets, rumors, half-truths, or li
 ## The Battle of Hong Kong
 
 - 8-25 December 1941.
-- Known as defence of Hong Kong and the fall of Hong Kong
+- Known as defense of Hong Kong and the fall of Hong Kong.
+- First battle of the Pacific War in WW2.
+- Same morning as Pearl Harbour, the Empire of Japan attacked the British colony of Hong Kong, without declaring war against the British Empire.
+- Consisted of British, Indian, and Canadian units, also the Auxiliary Defense units
 
 battles, canadas involvement in battles, what began the war, know battle tactics (what was germany better at in the ground than britian was, vise versa), battle of atlantic, air force of germany (luftwafa),
 

@@ -22,34 +22,40 @@
 - Formally ended WW1.
 
 ### League of Nations (1920)
-- First worldwide intergovernmental organization whose principal missionwas to maintain world peace.
-- Founded in January 10, 1920 by the Paris Peace Conference that eneded the First World War.
+
+- First worldwide intergovernmental organization whose principal mission was to maintain world peace.
+- Founded in January 10, 1920 by the Paris Peace Conference that ended the First World War.
 
 ### Key Figures
+
 - Benito Mussolini
-    - From Italy
-    - Gets into socialism
-    - First dictator of Italy
+  - From Italy
+  - Gets into socialism
+  - First dictator of Italy
 - Adolf Hitler
-    - Made chancellor by President Nuremburg
-    - Sent soldiers to Rhineland (border of Germany)
+  - Made chancellor by President Nuremberg
+  - Sent soldiers to Rhineland (border of Germany)
 
 ### Key Ideas
+
 - Facism
-    - No classes
-    - Dictatorship
-    - Like socialism
+  - No classes
+  - Dictatorship
+  - Like socialism
 
 ## Invasion of Poland
+
 - Joint attack on Republic of Poland by Nazi Germany and the Soviet Union.
 - Marked the beginning of WW2.
-- Soviet government accounced it acted to protect the Ukranians and Belarusians who lived in the eastern part of Poland.
+- Soviet government accounted it acted to protect the Ukrainians and Belarusians who lived in the eastern part of Poland.
 - September 27, 1939, Poland surrendered to the Nazis, and Poland was divided between the Germans and Soviets.
 
-#### Propaganda
+### Propaganda
+
 The dissemination of information - facts, arguemnets, rumors, half-truths, or lies- to influence public opinion.
 
 ### What is Blitzkreig?
+
 - "Blitzkreig" is a German word meaning "Lightning War".
 - Germany's strategy to defeat its opponents by a series of short campaigns.
 
